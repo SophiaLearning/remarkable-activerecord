@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = "4.0.0.alpha4"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Carlos Brando", "Ho-Sheng Hsiao", "José Valim", "Diego Carrion"]
-  s.email       = ["hosh@sparkfly.com", "eduardobrando@gmail.com", "jose.valim@gmail.com", "dc.rec1@gmail.com"]
+  s.email       = "eduardobrando@gmail.com"
 
   s.add_dependency 'remarkable_activemodel'
 
