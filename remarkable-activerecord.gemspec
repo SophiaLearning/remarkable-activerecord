@@ -8,6 +8,7 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Carlos Brando", "Ho-Sheng Hsiao", "José Valim", "Diego Carrion"]
   s.email       = "eduardobrando@gmail.com"
+  s.summary     = "remarkable-activerecord"
 
   s.add_dependency 'remarkable_activemodel'
 
